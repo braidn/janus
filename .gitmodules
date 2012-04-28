@@ -1,0 +1,15 @@
+[submodule "sparkup"]
+	path = sparkup
+	url = git://github.com/bradendouglass/sparkup.git
+[submodule "yankring"]
+	path = yankring
+	url = git://github.com/chrismetcalf/vim-yankring.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = git://github.com/jiangmiao/auto-pairs.git
+[submodule "vitality"]
+	path = vitality
+	url = git://github.com/sjl/vitality.vim.git
