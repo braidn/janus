@@ -13,3 +13,6 @@
 [submodule "vitality"]
 	path = vitality
 	url = git://github.com/sjl/vitality.vim.git
+[submodule "histwin"]
+	path = histwin
+	url = git://github.com/chrisbra/histwin.vim.git
