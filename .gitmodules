@@ -16,9 +16,6 @@
 [submodule "histwin"]
 	path = histwin
 	url = git://github.com/chrisbra/histwin.vim.git
-[submodule "vim-slime"]
-	path = vim-slime
-	url = git://github.com/jpalardy/vim-slime.git
 [submodule "numbers"]
 	path = numbers
 	url = git://github.com/myusuf3/numbers.vim.git
