@@ -22,3 +22,9 @@
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
+[submodule "vimux"]
+	path = vimux
+	url = git://github.com/benmills/vimux.git
+[submodule "vim-turbux"]
+	path = vim-turbux
+	url = git://github.com/jgdavey/vim-turbux.git
