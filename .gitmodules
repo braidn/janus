@@ -28,3 +28,6 @@
 [submodule "vim-turbux"]
 	path = vim-turbux
 	url = git://github.com/jgdavey/vim-turbux.git
+[submodule "apidock.vim"]
+	path = apidock.vim
+	url = git://github.com/wusher/apidock.vim.git
