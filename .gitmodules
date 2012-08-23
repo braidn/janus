@@ -31,3 +31,6 @@
 [submodule "apidock-vim"]
 	path = apidock-vim
 	url = git://github.com/wusher/apidock.vim.git
+[submodule "dwm"]
+	path = dwm
+	url = git://github.com/spolu/dwm.vim.git
