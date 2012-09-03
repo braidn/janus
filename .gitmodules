@@ -34,3 +34,18 @@
 [submodule "dwm"]
 	path = dwm
 	url = git://github.com/spolu/dwm.vim.git
+[submodule "vim-ruby-refactoring"]
+	path = vim-ruby-refactoring
+	url = git://github.com/ecomba/vim-ruby-refactoring.git
+[submodule "vim-cucumber"]
+	path = vim-cucumber
+	url = git://github.com/tpope/vim-cucumber.git
+[submodule "vim-less"]
+	path = vim-less
+	url = git://github.com/groenewege/vim-less.git
+[submodule "vim-slim"]
+	path = vim-slim
+	url = git://github.com/bbommarito/vim-slim.git
+[submodule "vim-haml"]
+	path = vim-haml
+	url = git://github.com/tpope/vim-haml.git
