@@ -52,3 +52,6 @@
 [submodule "switch"]
 	path = switch
 	url = git://github.com/AndrewRadev/switch.vim.git
+[submodule "vim-html"]
+	path = vim-html
+	url = git://github.com/xenoterracide/html.vim.git
