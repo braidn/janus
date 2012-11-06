@@ -1,6 +1,3 @@
-[submodule "sparkup"]
-	path = sparkup
-	url = git://github.com/bradendouglass/sparkup.git
 [submodule "yankring"]
 	path = yankring
 	url = git://github.com/chrismetcalf/vim-yankring.git
@@ -55,3 +52,6 @@
 [submodule "vim-html"]
 	path = vim-html
 	url = git://github.com/xenoterracide/html.vim.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = git://github.com/mattn/zencoding-vim.git
