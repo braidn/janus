@@ -55,3 +55,6 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "php-vim"]
+	path = php-vim
+	url = https://github.com/StanAngeloff/php.vim.git
