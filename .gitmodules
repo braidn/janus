@@ -28,9 +28,6 @@
 [submodule "apidock-vim"]
 	path = apidock-vim
 	url = git://github.com/wusher/apidock.vim.git
-[submodule "dwm"]
-	path = dwm
-	url = git://github.com/spolu/dwm.vim.git
 [submodule "vim-ruby-refactoring"]
 	path = vim-ruby-refactoring
 	url = git://github.com/ecomba/vim-ruby-refactoring.git
@@ -55,6 +52,3 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
-[submodule "php-vim"]
-	path = php-vim
-	url = https://github.com/StanAngeloff/php.vim.git
