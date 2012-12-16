@@ -55,9 +55,3 @@
 [submodule "PIV"]
 	path = PIV
 	url = https://github.com/spf13/PIV.git
-[submodule "neocomplcache"]
-	path = neocomplcache
-	url = https://github.com/Shougo/neocomplcache.git
-[submodule "neosnippet"]
-	path = neosnippet
-	url = https://github.com/Shougo/neosnippet.git
